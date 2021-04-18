@@ -18,6 +18,18 @@
 
 [https://github.com/Zhang-shmily/MCSOG-SSXX](https://github.com/Zhang-shmily/MCSOG-SSXX)
 
+## 技术栈
+
+易语言+PHP
+
+## 文档发布地址
+
+[https://skins.mcsog.tk:442/README.html](https://skins.mcsog.tk:442/README.html)
+
+## 贡献此项目
+
+在使用过程中出现问题可以提Issues，文档中问题可以通过Pull Requests方式提交。
+
 ## 四史学习入口
 
 微信关注“中国大学生在线”，选择“四史学习”-“四史问答”，进入答题平台并绑定信息。
