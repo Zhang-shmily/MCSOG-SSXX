@@ -150,6 +150,12 @@
 
 [![答题(潍坊科技学院)](https://pub.idqqimg.com/wpa/images/group.png "答题(潍坊科技学院)")](https://qm.qq.com/cgi-bin/qm/qr?k=3UfauMUrbkUbmfyfoF0B6LdsyAHShXUU&jump_from=webapi)
 
+齐鲁医药学院
+
+924060422
+
+[![答题(潍坊科技学院)](https://pub.idqqimg.com/wpa/images/group.png "答题(齐鲁医药学院)")](https://qm.qq.com/cgi-bin/qm/qr?k=Yz6w4LjcQRoGWd8rt6nrlZ7ZIUXZUnB6&jump_from=webapi)
+
 ### 重庆市
 
 715807863
@@ -260,7 +266,11 @@
 
 发送[查询指令](#查询指令)即可。
 
-*若提示 未同步分数 为从未答题或尚未同步分数*
+或
+
+进入https://skins.mcsog.tk:442/user/[QQ].html
+
+*若提示 未同步分数 或 404 为从未答题或尚未同步分数*
 
 ### 5、封禁换绑
 
